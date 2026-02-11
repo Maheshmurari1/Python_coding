@@ -1,0 +1,17 @@
+__pycache__/
+.env
+*.pyc
+venv/
+.idea/
+.vscode/
+# Virtual environment
+venu/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
